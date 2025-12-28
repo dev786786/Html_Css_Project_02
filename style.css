@@ -430,11 +430,15 @@ body{
     color: white;
 }
 .footer-bottom{
+    grid-column: 1/-1;
     text-align: center;
     padding-top: 2rem;
+    margin-top: 2rem;
     border-top: 1px solid #34495e;
     color: #bdc3c7;
+    width: 100%;
 }
+
 
     
 
